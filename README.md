@@ -1,0 +1,1 @@
+This is a simple hangman project written with Python.
